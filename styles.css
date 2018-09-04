@@ -12,3 +12,19 @@ h1.title {color:blue}
    color: white;
    text-align: center;
 }
+/* CSS Positioning */
+
+
+
+.box {
+	background: gray;
+	color: #B3CA68;
+	height: 220px;
+	width: 455px;
+	margin: 20px 10px 50px;
+	padding: 10px 10px 40px;
+	border-radius: 20px;
+}
+
+
+}
