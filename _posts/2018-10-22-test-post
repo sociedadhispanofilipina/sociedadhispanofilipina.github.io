@@ -1,0 +1,16 @@
+---
+layout: post
+title: test post
+date: 2018-10-22
+author: Jem
+image: http://placehold.it/900x300
+lead: "test lead content"
+category: jekyll
+---
+
+Some of the benefots of a static website generators are that they are:
+
+- **Simple** - makes building and maintaing websites incredibly simple, Static sites are easier to maintain (No databases, No server-side scripts!)
+
+- ** Fast**: Static files can be served fast.
+- ** Secure**, as they do not conatain dynamic content, so are immune to the most common attacks.

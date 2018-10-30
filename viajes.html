@@ -1,42 +1,9 @@
-<!doctype html>
-<html lang="en">
-<title>Viajes</title>
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+---
+layout: default
+title: Viajes
+---
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:300,400,700" rel="stylesheet">
-    <link rel="stylesheet" href="css/styles.css"/>
-    <link rel="stylesheet" href="font-awesome/css/font-awesome.css"/>    
-    <link rel="stylesheet" href="css/animate.min.css"/>
-  </head>
-<body>
-  
-    <nav class="navbar navbar-expand-lg fixed-top">
-
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation-bar"> 
-        <span class="navbar-toggler-icon">&#9776;</span>
-      </button>
-
-      <a class="navbar-brand" href="index.html"> SHF <!-- <img src="img/logo-small.jpg" class="img-fluid"> --></a>
-        
- 
-      <div class="collapse navbar-collapse" id="navigation-bar">
-        <ul class="navbar-nav ml-auto">          
-          <li class="nav-item"> <a class="nav-link" href="index.html#anuncios">ANUNCIOS</a> </li>
-          <li class="nav-item"> <a class="nav-link" href="index.html#enlaces">ENLACES</a> </li>
-          <li class="nav-item"> <a class="nav-link" href="index.html#actividades">ACTIVIDADES</a> </li>          
-          <li class="nav-item"> <a class="nav-link" href="index.html#mensajes">BOLETÍN</a> </li>
-          <li class="nav-item"> <a class="nav-link" href="index.html#conectar">CONECTAR</a> </li>            
-          <!-- <li class="nav-item"> <a class="nav-link" href="#contact">CONTACTAR</a> </li> -->
-        </ul>
-      </div>
-    </nav>
-
-    <!-- HEADER -->
+    <!-- VIAJES -->
       <section id="header2">
         <div class="container"> 
 
@@ -60,78 +27,39 @@
               <h2 class="inline text-center">Fotos</h2>
               <p class="text-center">Las fotos del viaje</p> 
               <div id="mycarousel" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                  <li data-target="#mycarousel" data-slide-to="0" class="active"></li>
-                  <li data-target="#mycarousel" data-slide-to="1"></li>
-                  <li data-target="#mycarousel" data-slide-to="2"></li>
-                  <li data-target="#mycarousel" data-slide-to="3"></li>
-                  <li data-target="#mycarousel" data-slide-to="4"></li>
-                  <li data-target="#mycarousel" data-slide-to="5"></li>
-                  <li data-target="#mycarousel" data-slide-to="6"></li>
-                  <li data-target="#mycarousel" data-slide-to="7"></li>
-                  <li data-target="#mycarousel" data-slide-to="8"></li>
-                  <li data-target="#mycarousel" data-slide-to="9"></li>
-                  <li data-target="#mycarousel" data-slide-to="10"></li>
-                  <li data-target="#mycarousel" data-slide-to="11"></li>
+
+                <ol class="carousel-indicators"> 
+                  {% for viajes_majayjay in site.data.viajes_majayjay %}  
+                  {% if forloop.first == true %}                            
+                  <li data-target="#mycarousel" data-slide-to="0" class="active"></li> 
+                  {% else %}
+                  <li data-target="#mycarousel" data-slide-to="{{ forloop.index0 }}"></li> 
+                  {% endif %}
+                  {% endfor %}                                
                 </ol>
-              <div class="carousel-inner"> <!-- Carousel item 1 --> 
-                <div class="carousel-item active">                  
-                  <p class="mb-0">Entrada de APA farms</p>                  
-                  <img class="img-fluid" src="img/viajes/majayjay/img1.jpg" style="width:100%;">               
+                                
+              <div class="carousel-inner"> <!-- Carousel item 1 -->  
+                {% for viajes_majayjay in site.data.viajes_majayjay %}  
+                <div class="carousel-item {% if forloop.first %}active{% endif %}"> 
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5>{{ viajes_majayjay.caption }}</h5>                    
+                    </div>               
+                  <img class="img-fluid" src="{{ viajes_majayjay.source }}" style="width:100%;">                  
                 </div>
-
-                <div class="carousel-item"> <!-- Carousel item 2 -->                   
-                  <p class="mb-0">Dentro de APA Farms</p>
-                  <img src="img/viajes/majayjay/img2.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 3 -->                  
-                  <p class="mb-0">Iglesia de San Gregorio Magno (Iglesia de Majayjay)</p>
-                  <img src="img/viajes/majayjay/img3.jpg" style="width:100%;">                              
-                </div>   
-                <div class="carousel-item"> <!-- Carousel item 4 -->
-                  <p class="mb-0">Iglesia de San Gregorio Magno (Iglesia de Majayjay)</p>
-                  <img src="img/viajes/majayjay/img4.jpg" style="width:100%;">                              
-                </div>   
-
-                <div class="carousel-item"> <!-- Carousel item 5 -->
-                  <p class="mb-0">Iglesia de San Gregorio Magno (Iglesia de Majayjay)</p>
-                  <img src="img/viajes/majayjay/img5.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 6 -->
-                  <p class="mb-0">Cascada de Bukal</p>
-                  <img src="img/viajes/majayjay/img6.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 7 -->
-                  <p class="mb-0">Cascada de Bukal</p>
-                  <img src="img/viajes/majayjay/img7.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 8 -->
-                  <p class="mb-0">Dentro de APA Farms</p>
-                  <img src="img/viajes/majayjay/img8.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 9 -->
-                  <p class="mb-0">Dentro de APA Farms</p>
-                  <img src="img/viajes/majayjay/img9.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 10 -->
-                  <p class="mb-0">Dentro de APA Farms</p>
-                  <img src="img/viajes/majayjay/img10.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 11 -->
-                  <p class="mb-0">Nuestra cena</p>
-                  <img src="img/viajes/majayjay/img11.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 12 -->
-                  <p class="mb-0">Viendo el documental de Hacer Tuba en México y Filipinas</p>
-                  <img src="img/viajes/majayjay/img12.jpg" style="width:100%;">                              
-                </div>                
-              </div>            
+                {% endfor %} 
+              </div>  
             </div>  
               <div>
-                <center>
-                <button class="btn btn-primary" data-slide="prev" href="#mycarousel">Anterior</button>
-                <button class="btn btn-primary" data-slide="next" href="#mycarousel">Siguiente</button>
-                </center>
+
+                <a class="carousel-control-prev" href="#mycarousel" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#mycarousel" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              
               </div>
         </div>
         </div>    
@@ -148,81 +76,41 @@
               <h2 class="inline text-center">Fotos</h2>
               <p class="text-center">Las fotos del viaje</p>
              <div id="mycarousel2" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                  <li data-target="#mycarousel" data-slide-to="0" class="active"></li>
-                  <li data-target="#mycarousel" data-slide-to="1"></li>
-                  <li data-target="#mycarousel" data-slide-to="2"></li>
-                  <li data-target="#mycarousel" data-slide-to="3"></li>
-                  <li data-target="#mycarousel" data-slide-to="4"></li>
-                  <li data-target="#mycarousel" data-slide-to="5"></li>
-                  <li data-target="#mycarousel" data-slide-to="6"></li>
-                  <li data-target="#mycarousel" data-slide-to="7"></li>
-                  <li data-target="#mycarousel" data-slide-to="8"></li>
-                  
+                               
+                <ol class="carousel-indicators"> 
+                  {% for viajes_baler2017 in site.data.viajes_baler2017 %}  
+                  {% if forloop.first == true %}                            
+                  <li data-target="#mycarousel" data-slide-to="0" class="active"></li> 
+                  {% else %}
+                  <li data-target="#mycarousel" data-slide-to="{{ forloop.index0 }}"></li> 
+                  {% endif %}
+                  {% endfor %}                                
                 </ol>
+                
               <div class="carousel-inner"> <!-- Carousel item 1 --> 
-                <div class="carousel-item active">                  
-                  <p class="mb-0">Bandera</p>                  
-                  <img src="img/viajes/baler2017/img1.jpg" style="width:100%;">                 
+                {% for viajes_baler2017 in site.data.viajes_baler2017 %}
+                <div class="carousel-item {% if forloop.first %}active{% endif %}">
+                  <img src="{{ viajes_baler2017.source }}" style="width:100%;"> 
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5>{{ viajes_baler2017.caption }}</h5>                    
+                    </div>                 
                 </div>
-
-                <div class="carousel-item"> <!-- Carousel item 2 -->                   
-                  <p class="mb-0">Baler</p>
-                  <img src="img/viajes/baler2017/img2.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 3 -->                  
-                  <p class="mb-0">Marcha</p>
-                  <img src="img/viajes/baler2017/img3.jpg" style="width:100%;">                              
-                </div>   
-                <div class="carousel-item"> <!-- Carousel item 4 -->
-                  <p class="mb-0">Programa en la plaza</p>
-                  <img src="img/viajes/baler2017/img4.jpg" style="width:100%;">                              
-                </div>   
-
-                <div class="carousel-item"> <!-- Carousel item 5 -->
-                  <p class="mb-0">Iglesia de San Luis de Tolosa (Iglesia de Baler)</p>
-                  <img src="img/viajes/baler2017/img5.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 6 -->
-                  <p class="mb-0">Iglesia de San Luis de Tolosa (Iglesia de Baler)</p>
-                  <img src="img/viajes/baler2017/img6.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 7 -->
-                  <p class="mb-0">Casa de Doña Aurora Quezon</p>
-                  <img src="img/viajes/baler2017/img7.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 8 -->
-                  <p class="mb-0">Con Jeremy Barns - Director de Museo Nacional de Filipinas</p>
-                  <img src="img/viajes/baler2017/img8.jpg" style="width:100%;">                              
-                </div>
-                <div class="carousel-item"> <!-- Carousel item 9 -->
-                  <p class="mb-0">Cerro de Ermita</p>
-                  <img src="img/viajes/baler2017/img9.jpg" style="width:100%;">                              
-                </div>
+                {% endfor %}                
                                       
             </div>  
         </div>   
                <div>
-                <center>
-                <button class="btn btn-primary" data-slide="prev" href="#mycarousel2">Anterior</button>
-                <button class="btn btn-primary" data-slide="next" href="#mycarousel2">Siguiente</button>
-                </center>
+                <a class="carousel-control-prev" href="#mycarousel2" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#mycarousel2" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
               </div>
         </div>
       </section>
     
-    <!-- END HEADER -->
+    <!-- END VIAJES -->
 
-<!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-
-    <script src="js/wow.min.js"></script>
-              <script>
-              new WOW().init();
-              </script>
-
-</body>
-</html>

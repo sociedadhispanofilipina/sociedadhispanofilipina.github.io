@@ -1,0 +1,36 @@
+
+<!-- ACTIVIDADES -->
+      <section id="actividades">
+        <div class="container">
+          <div class="row">
+
+            <div class="col-md-12 wow fadeInUp">
+              <h2>Actividades...</h2>
+              <hr align="left" width="30%">
+              <p>Las actividades del grupo</p>
+            </div>
+          
+          </div>
+
+          <div class="row">
+            {% for actividades in site.data.actividades %}
+            <!-- Card 1 -->
+            <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+              <div class="card">
+                <div class="actividades-img">
+                 <a href="{{ actividades.href }}"><img class="card-img-top" img-fluid src="{{ actividades.icon }}" alt="Card image cap">
+                  <div class="img-overlay"></div>
+                </div>
+                <div class="card-body">
+                  <p class="card-text">{{ actividades.title }}</p></a>
+                </div>              
+              </div>                      
+            </div>
+            <!-- End of Card 1 -->        
+            {% endfor %}
+          </div>
+          </div>
+        </div>
+      </section>
+      
+    <!-- END ACTIVIDADES -->
