@@ -17,7 +17,7 @@ title: Sociedad Hispano-Filipina
 email: sociedadhispanofilipina@gmail.com
 description: "La Sociedad Hispano-Filipina para la defensa del idioma castellano en las islas filipinas."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://sociedadhispanofilipina.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
