@@ -3,6 +3,7 @@ layout: default
 ---
 
 <!-- POST HTML -->
+<section id="header2">
 <article id="post">
     <div class="container">
 
@@ -36,6 +37,7 @@ layout: default
 
                 <hr>
 
+
                 <!-- Post Content -->
                 {% if page.lead %}
                 <p class="lead"> {{ page.lead }}</p>
@@ -46,7 +48,7 @@ layout: default
 
 
                 <hr>
-                
+                {% include comments.html %}
                 
                 {% if page.previous %}
                   <span class="previous-link">
@@ -99,3 +101,4 @@ layout: default
         <!-- /.row -->
     </div>
 </article>
+</section>
