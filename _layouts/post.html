@@ -46,10 +46,7 @@ layout: default
                 
                 {{ page.content }}
 
-
-                <hr>
-                {% include comments.html %}
-                
+                <div class="clearfix">
                 {% if page.previous %}
                   <span class="previous-link">
                     <a rel="prev" href="{{ page.previous.url }}">Previous article</a>
@@ -61,7 +58,10 @@ layout: default
                     <a rel="next" href="{{ page.next.url }}">Next article</a>
                   </span>
                 {% endif %} 
-                              
+                </div> 
+                
+                <hr>
+                {% include comments.html %}                                    
                
                 <hr>
             </div>
