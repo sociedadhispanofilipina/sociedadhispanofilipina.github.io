@@ -35,7 +35,7 @@ defaults:
     values:
       layout: "post"
       author: "Jem"
-      category: "jekyll"
+      category: "blogs"
 
 
 # Exclude from processing.
