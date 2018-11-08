@@ -35,7 +35,7 @@ defaults:
     values:
       layout: "post"
       author: "Jem"
-      category: "blogs"
+      category: "publicaciones"
 
 
 # Exclude from processing.
