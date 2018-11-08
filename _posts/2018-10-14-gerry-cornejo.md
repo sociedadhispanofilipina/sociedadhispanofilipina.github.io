@@ -1,7 +1,7 @@
 ---
 title: Que descanse en paz Gerry Cornejo
 date: 2018-10-14
-image: img/publicaciones/IMG_8057.JPG
+image: img/publicaciones/IMG_8057.jpg
 
 ---
 
