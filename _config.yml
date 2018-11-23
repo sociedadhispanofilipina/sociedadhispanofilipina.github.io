@@ -25,7 +25,8 @@ github_username:
 markdown: kramdown
 plugins:
   - jekyll-feed
-
+  - jekyll-responsive-image
+  
 permalink: none
 
 defaults:
