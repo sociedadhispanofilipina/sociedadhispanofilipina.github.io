@@ -27,27 +27,3 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 2aeaf7c6180160c7cfaef4d4aae326d01cc70ded
-gem "jekyll-responsive-image"
-=======
-gem 'jekyll-srcset'
->>>>>>> parent of afdabbd... update
-<<<<<<< HEAD
-=======
-gem 'jekyll-srcset'
->>>>>>> parent of afdabbd... update
-=======
->>>>>>> 2aeaf7c6180160c7cfaef4d4aae326d01cc70ded
-=======
-gem 'jekyll-srcset'
->>>>>>> parent of afdabbd... update
-=======
-gem 'jekyll-srcset'
->>>>>>> parent of afdabbd... update
