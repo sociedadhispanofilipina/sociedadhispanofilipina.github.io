@@ -3,7 +3,21 @@
 <title> test post 2  </title>
   <head>
 
-    <!--Start of Zendesk Chat Script
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+    <script>
+      if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+      }
+    </script>
+
+    <!--Start of Zendesk Chat Script -->
     <script type="text/javascript">
     window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
     d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
@@ -11,7 +25,7 @@
     $.src="https://v2.zopim.com/?5lBIU56TuZCkfR2hVnhqxPhlVmX7rYW5";z.t=+new Date;$.
     type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
     </script>
-    End of Zendesk Chat Script-->        
+    <!-- End of Zendesk Chat Script -->
       
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -61,6 +75,7 @@
     </nav> 
 
     <!-- POST HTML -->
+<section id="header_post">
 <article id="post">
     <div class="container">
 
@@ -76,30 +91,37 @@
 
                 <!-- Author -->
                 <p class="lead">
-                    by Jem
+                    por Jem
                 </p>
 
                 <hr>
 
                 <!-- Date/Time -->
-                <p><span class="glyphicon glyphicon-time"></span> Posted on October 23, 2018</p>
+                <p><span class="glyphicon glyphicon-time"></span> Publicado el 
+23 de
+octubre
 
+2018</p>
+                           
                 <hr>
                 
                 <!-- Preview Image -->
                 
-                <img class="img-responsive" src="http://placehold.it/500x300" alt="http://placehold.it/500x300">
+                <img class="img-responsive" src="http://placehold.it/500x300" alt="http://placehold.it/500x300" style="width:400px; height: 400px">
                	
                 
 
                 <hr>
+
 
                 <!-- Post Content -->
                 
                 <p class="lead"> test lead content</p>
                 
                 
-                
+                <section id="header_post">  
+                    <div class="container"> 
+                        <div class="col header-right">                  
                 <p>Some of the benefots of a static website generators are that they are:</p>
 
 <ul>
@@ -110,19 +132,44 @@
   <li>** Secure**, as they do not conatain dynamic content, so are immune to the most common attacks.</li>
 </ul>
 
-
+                        </div>
+                    </div>
+                </section>
 
                 <hr>
-                
-                
+
+                <div class="clearfix">
                 
                   <span class="previous-link">
-                    <a rel="prev" href="/jekyll/test-post.html">Previous article</a>
+                    <a rel="prev" href="/publicaciones/gerry-cornejo.html">Previous article</a>
                   </span>
                 
                 
                  
-                              
+                </div> 
+                
+                <hr>
+                <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://sociedadhispanofilipina-org.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                                                
                
                 <hr>
             </div>
@@ -133,15 +180,18 @@
                 <!-- Blog Categories Well -->
                 <div class="well">
                 	
-                    <h4>Jekyll</h4>
+                    <h4>Publicaciones</h4>
                                         <div class="row">
-                        <div class="col-lg-6">
+                        <div class="col-lg-12">
                             <ul class="list-unstyled">
                             	
-                                <li><a href="/jekyll/test-post-2.html">test post 2</a>
+                                <li><a href="/publicaciones/test-post-2.html">test post 2</a>
                                 </li>
                                 
-                                <li><a href="/jekyll/test-post.html">test post</a>
+                                <li><a href="/publicaciones/gerry-cornejo.html">Que descanse en paz Gerry Cornejo</a>
+                                </li>
+                                
+                                <li><a href="/publicaciones/Nosotros-Filipinos-somos-hispanos.html">Nosotros Filipinos somos hispanos</a>
                                 </li>
                                 
                                 
@@ -153,11 +203,11 @@
                     <!-- /.row -->
                 </div>
 
-                <!-- Side Widget Well -->
+                <!-- Side Widget Well
                 <div class="well">
                     <h4>Side Widget Well</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, perspiciatis adipisci accusamus laudantium odit aliquam repellat tempore quos aspernatur vero.</p>
-                </div>
+                </div> -->
 
             </div>
 
@@ -165,6 +215,7 @@
         <!-- /.row -->
     </div>
 </article>
+</section>
 
     
 <!-- FOOTER -->
@@ -229,25 +280,7 @@
     <script src="js/wow.min.js"></script>
               <script>
               new WOW().init();
-              </script>      
-
-    <!-- START OF OFERTA 2 -->
-    <script>
-      function openCity(evt, cityName) {
-      var i, tabcontent, tablinks;
-      tabcontent = document.getElementsByClassName("tabcontent");
-      for (i = 0; i < tabcontent.length; i++) {
-          tabcontent[i].style.display = "none";
-      }
-      tablinks = document.getElementsByClassName("tablinks");
-      for (i = 0; i < tablinks.length; i++) {
-          tablinks[i].className = tablinks[i].className.replace(" active", "");
-      }
-      document.getElementById(cityName).style.display = "block";
-      evt.currentTarget.className += " active";
-      }
-    </script>
-    <!-- END OF OFERTA 2 -->
+              </script>          
 
   </body>
 </html>

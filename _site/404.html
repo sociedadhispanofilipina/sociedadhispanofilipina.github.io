@@ -3,7 +3,21 @@
 <title> Sociedad Hispano-Filipina  </title>
   <head>
 
-    <!--Start of Zendesk Chat Script
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+    <script>
+      if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+      }
+    </script>
+
+    <!--Start of Zendesk Chat Script -->
     <script type="text/javascript">
     window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
     d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
@@ -11,7 +25,7 @@
     $.src="https://v2.zopim.com/?5lBIU56TuZCkfR2hVnhqxPhlVmX7rYW5";z.t=+new Date;$.
     type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
     </script>
-    End of Zendesk Chat Script-->        
+    <!-- End of Zendesk Chat Script -->
       
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -145,25 +159,7 @@
     <script src="js/wow.min.js"></script>
               <script>
               new WOW().init();
-              </script>      
-
-    <!-- START OF OFERTA 2 -->
-    <script>
-      function openCity(evt, cityName) {
-      var i, tabcontent, tablinks;
-      tabcontent = document.getElementsByClassName("tabcontent");
-      for (i = 0; i < tabcontent.length; i++) {
-          tabcontent[i].style.display = "none";
-      }
-      tablinks = document.getElementsByClassName("tablinks");
-      for (i = 0; i < tablinks.length; i++) {
-          tablinks[i].className = tablinks[i].className.replace(" active", "");
-      }
-      document.getElementById(cityName).style.display = "block";
-      evt.currentTarget.className += " active";
-      }
-    </script>
-    <!-- END OF OFERTA 2 -->
+              </script>          
 
   </body>
 </html>
