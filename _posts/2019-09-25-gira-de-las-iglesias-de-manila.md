@@ -27,13 +27,13 @@ El pago de la reserva puede transferirse pero no es reembolsable a menos que la 
 
 
 <p style="text-align: center;">
-Día de la gira: 13 de octubre de 2019</p>
+**Fecha de la gira: 13 de octubre de 2019**</p>
 
-<p style="text-align: center;">Horario: 9:30 a.m.</p>
+<p style="text-align: center;">**Horario: 9:30 a.m.**</p>
 
-<p style="text-align: center;">Punto de encuentro: Basilica Minore de San Sebastián. Quiapo, Ciudad de Manila.</p>
+<p style="text-align: center;">**Punto de encuentro: Basilica Minore de San Sebastián. Quiapo, Ciudad de Manila**</p>
 
-<p style="text-align: center;">Coste: P500</p>
+<p style="text-align: center;">**Coste: P500**</p>
 
 
 
