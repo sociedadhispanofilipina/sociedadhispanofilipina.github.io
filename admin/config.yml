@@ -20,5 +20,5 @@ collections:
       - {label: "date", name: "Publicado el", widget: "datetime"}
       - {label: "Publicado por", name: "author", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       
