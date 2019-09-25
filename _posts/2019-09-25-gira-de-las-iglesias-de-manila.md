@@ -12,9 +12,13 @@ Pues, vamos a reunirnos para celebrar algo en conexión con nuestro alma como Fi
 
 El 13 de octubre organizaremos el lanzamiento de la "Gira de Las Iglesias de Manila". Promovido por el grupo de la Sociedad Hispano-Filipina. Esta gira será dirigida totalmente en el idioma español por Jayzl Villafania Nebre.
 
+
+
 **Mapa de las iglesias para visitar**
 
 ![](/img/uploads/mapa-de-la-ruta_edited-resized.jpg)
+
+
 
 **Para reservar**
 
