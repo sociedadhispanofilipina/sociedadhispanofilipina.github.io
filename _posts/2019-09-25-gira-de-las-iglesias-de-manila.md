@@ -4,7 +4,7 @@ Publicado el: 2019-09-25T14:24:20.099Z
 author: Jemuel
 image: ''
 ---
-![](/img/uploads/edited-online-2.jpg)
+![](/img/uploads/edited-online-2-resized.jpg)
 
 Mientras todo el mundo hispano está celebrando el 12 de octubre como el Día de la Hispanidad, Día de las Razas, Día de la Diversidad de la Cultura Americana, Día de las culturas, día Del Pilar, Día de Cristobal Colon, etc., aquí en Filipinas casi no hay nada, aparte de la Fiesta de la Virgen del Pilar de Zamboanga o Zamboanga Hermosa, Nuestra Señora del Santísimo Rosario - La Naval de Manila, y Nuestra Señora del Pilar en Mindoro.
 
