@@ -21,7 +21,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "layout", name: "Layout", widget: "hidden", post: "publicaciones"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "date", name: "Publicado el", widget: "de", "datetime"}
+      - {label: "date", name: "Publicado el"}
       - {label: "Publicado por", name: "author", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Image", name: "image", widget: "image", required: false}
