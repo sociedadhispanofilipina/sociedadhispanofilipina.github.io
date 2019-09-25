@@ -12,6 +12,18 @@ Pues, vamos a reunirnos para celebrar algo en conexión con nuestro alma como Fi
 
 El 13 de octubre organizaremos el lanzamiento de la "Gira de Las Iglesias de Manila". Promovido por el grupo de la Sociedad Hispano-Filipina. Esta gira será dirigida totalmente en el idioma español por Jayzl Villafania Nebre.
 
+
+<p style="text-align: center;">
+Día de la gira: 13 de octubre de 2019</p>
+
+<p style="text-align: center;">Horario: 9:30 a.m.</p>
+
+<p style="text-align: center;">Punto de encuentro: Basilica Minore de San Sebastián. Quiapo, Ciudad de Manila.</p>
+
+<p style="text-align: center;">Coste: P500</p>
+
+
+
 **Mapa de las iglesias para visitar**
 
 ![](/img/uploads/mapa-de-la-ruta_edited-resized.jpg)
