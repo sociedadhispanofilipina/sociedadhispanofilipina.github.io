@@ -2,7 +2,7 @@
 title: Gira de las Iglesias de Manila
 Publicado el: 2019-09-25T14:24:20.099Z
 author: Jemuel
-image: /img/uploads/edited-online-2.jpg
+image: ''
 ---
 ![](/img/uploads/edited-online-2.jpg)
 
