@@ -37,9 +37,7 @@ defaults:
       author: "Jem"
       category: "publicaciones"
 
-pages:
-  markdown:
-    extra: true
+
 
 
 # Exclude from processing.

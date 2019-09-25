@@ -8,6 +8,10 @@ publish_mode: editorial_workflow
 # This line should *not* be indented
 media_folder: "img/uploads" # Media files will be stored in the repo under images/uploads
 
+pages:
+  markdown:
+    extra: true
+
 collections:
   - name: "publicaciones" # Used in routes, e.g., /admin/collections/blog
     label: "Publicaciones" # Used in the UI
