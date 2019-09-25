@@ -14,7 +14,7 @@ El 13 de octubre organizaremos el lanzamiento de la "Gira de Las Iglesias de Man
 
 **Mapa de las iglesias para visitar**
 
-![](/img/uploads/mapa-de-la-ruta_edited.jpg)
+![](/img/uploads/mapa-de-la-ruta_edited-resized.jpg)
 
 **Para reservar**
 
