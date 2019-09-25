@@ -24,18 +24,14 @@ Por favor, deja tu nombre, correo electrónico y numero de teléfono en el campo
 
 El pago de la reserva puede transferirse pero no es reembolsable a menos que la gira se cancele o posponga debido a las malas condiciones climáticas. Si se pospone, tienes la opción de reembolso o conservar la reserva.
 
+<b><p style="text-align: center;">
+Fecha de la gira: 13 de octubre de 2019</p>
 
+<p style="text-align: center;">Horario: 9:30 a.m.</p>
 
-<p style="text-align: center;">
-**Fecha de la gira: 13 de octubre de 2019**</p>
+<p style="text-align: center;">Punto de encuentro: Basilica Minore de San Sebastián. Quiapo, Ciudad de Manila</p>
 
-<p style="text-align: center;">**Horario: 9:30 a.m.**</p>
-
-<p style="text-align: center;">**Punto de encuentro: Basilica Minore de San Sebastián. Quiapo, Ciudad de Manila**</p>
-
-<p style="text-align: center;">**Coste: P500**</p>
-
-
+<p style="text-align: center;">Coste: P500</p></b>
 
 **Aviso**: Que no olviden llevar sus paraguas, refrescos, camisa extra y zapatos comfortables.
 
