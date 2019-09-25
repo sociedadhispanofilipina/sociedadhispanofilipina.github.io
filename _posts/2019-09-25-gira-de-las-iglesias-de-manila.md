@@ -14,17 +14,6 @@ El 13 de octubre organizaremos el lanzamiento de la "Gira de Las Iglesias de Man
 
 
 
-<p style="text-align: center;">
-Día de la gira: 13 de octubre de 2019</p>
-
-<p style="text-align: center;">Horario: 9:30 a.m.</p>
-
-<p style="text-align: center;">Punto de encuentro: Basilica Minore de San Sebastián. Quiapo, Ciudad de Manila.</p>
-
-<p style="text-align: center;">Coste: P500</p>
-
-
-
 **Mapa de las iglesias para visitar**
 
 ![](/img/uploads/mapa-de-la-ruta_edited-resized.jpg)
