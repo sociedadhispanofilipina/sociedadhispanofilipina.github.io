@@ -31,7 +31,7 @@ Fecha de la gira: 13 de octubre de 2019</b></p>
 
 <p style="text-align: center;"><b>Punto de encuentro: Basilica Minore de San Sebastián. Quiapo, Ciudad de Manila</b></p>
 
-<p style="text-align: center;"><b>Coste: P500</b></p>
+<p style="text-align: center;"><b>Coste: P500.</b> Incluye entrada al museo de San Agustin, donación a la iglesia de San Sebastián y transporte (tentativo).</p>
 
 **Aviso**: Que no olviden llevar sus paraguas, refrescos, camisa extra y zapatos comfortables.
 
