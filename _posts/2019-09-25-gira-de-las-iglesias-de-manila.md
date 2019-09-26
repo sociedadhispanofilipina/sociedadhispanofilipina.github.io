@@ -16,7 +16,7 @@ El 13 de octubre organizaremos el lanzamiento de la "Gira de Las Iglesias de Man
 
 La logística del servicio de transporte comienza en el punto:
 
-1. **I** a punto **A**. (_Para aquellos que estacionarían sus autos cerca de la Catedral de Manila. De lo contrario, nos vemos en el punto **A**._)
+1. **I** a punto **A**. (_Para los que estacionarían sus autos cerca de la Catedral de Manila. De lo contrario, nos vemos en el punto **A**._)
 2. **D** a punto **E**
 3. **G** a punto **H**
 
