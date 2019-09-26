@@ -17,12 +17,9 @@ El 13 de octubre organizaremos el lanzamiento de la "Gira de Las Iglesias de Man
 La logística del servicio de transporte comienza en el punto:
 
 1. **I** a punto **A**. 
-
 2. **D** a punto **E**
-
 3. **G** a punto **H**
 
-\
 El resto del recorrido es a pie.
 
 ![](/img/uploads/mapa-de-la-ruta_edited-resized.jpg)
