@@ -26,7 +26,7 @@ El resto del recorrido es a pie.
 
 **Para reservar**
 
-Por favor, deja tu nombre, correo electrónico y numero de teléfono en el campo de mensajes en el enlace a continuación y te atenderemos pronto para los siguientes pasos.
+Por favor, deja tu **nombre**, **correo electrónico** y **numero de teléfono** en el campo de mensajes en el enlace a continuación y te atenderemos pronto para los siguientes pasos.
 
 <https://www.sociedadhispanofilipina.org/contactar.html>
 
