@@ -45,7 +45,7 @@ Fecha de la gira: 13 de octubre de 2019</b></p>
 
 <p style="text-align: center;"><b>Coste: P500.</b> </p>
 
-El pago incluye entrada al museo de San Agustin, donación a la iglesia de San Sebastián y transporte (van). Comida excluida. El restaurante para la pausa para el almuerzo se determinará pronto.
+El pago incluye entrada al museo de San Agustin (_que tiene una magnifica colección de cuadros, arquitectura fenomenal y un jardín botánico)_, donación a la iglesia de San Sebastián y transporte (van). Comida excluida. El restaurante para la pausa para el almuerzo se determinará pronto.
 
 **Aviso**: Que no olviden llevar sus paraguas, refrescos, camisa extra y zapatos comfortables.
 
