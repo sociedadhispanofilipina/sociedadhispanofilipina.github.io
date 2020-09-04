@@ -24,7 +24,7 @@ El resto del recorrido es a pie.
 
 **Para tu información**: Después de completar la gira, el van nos llevará a la Iglesia de Santo Domingo en la ciudad de Quezón para ver las carrozas de Santos Dominicanos de La Naval de Manila 2019. Esta es una parte adicional y opcional del tour y no hay nada extra que pagar.
 
-Enlace del evento de La Naval de Manila: <a href="https://www.facebook.com/events/472597076580032/" target="_blank"></a> 
+Enlace del evento de La Naval de Manila: https://www.facebook.com/events/472597076580032/
 
 ![](/img/uploads/mapa-de-la-ruta_edited-resized.jpg)
 
