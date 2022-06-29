@@ -1,6 +1,6 @@
 ---
 title: The Sociedad Hispano-Filipina presents the Alzona Echevarria Scholarship
-Publicado el: 2022-06-30T04:00:45.954Z
+Publicado el: 2022-06-29T06:36:11.951Z
 author: Jem
 ---
 ### **“Ambassador of Goodwill” for Filipino Spanish Language and Culture**
