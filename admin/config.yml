@@ -26,9 +26,9 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Imagen", name: "image", widget: "image", required: false}
 
- -name: "pages"
-  label: "Pages"
-  files:
+ - name: "pages"
+   label: "Pages"
+   files:
     - label: "About"
       name: "about"
       file: "about.md"
