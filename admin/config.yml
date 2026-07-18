@@ -26,3 +26,19 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Imagen", name: "image", widget: "image", required: false}
 
+ - name: "pages"
+  label: "Pages"
+  files:
+    - label: "About"
+      name: "about"
+      file: "about.md"
+      fields:
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Body", name: "body", widget: "markdown" }
+
+    - label: "Home"
+      name: "home"
+      file: "index.md"
+      fields:
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Body", name: "body", widget: "markdown" }
