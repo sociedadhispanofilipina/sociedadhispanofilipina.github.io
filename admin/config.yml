@@ -23,3 +23,14 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "settings"
+    label: "Settings"
+    files:
+      - label: "General Settings"
+        name: "general"
+        file: "_data/settings.yml"
+        fields:
+          - {label: "Site Title", name: "title", widget: "string"}
+          - {label: "Description", name: "description", widget: "string", required: false}
+          - {label: "Footer Text", name: "footer_text", widget: "string", required: false}
