@@ -27,6 +27,8 @@ Infelizmente, no podemos hablar de la historia de navegación, sin mencionar el 
 
 Del 27 a  29 de Julio 2026, se encuentra en SM Mall of Asia Music Hall la exposición de la Comisión Nacional Histórica de Filipinas que se llama "***History to Experience***" o HisToEx. Con la Comisión, varios grupos con el interés de divulgar a nuestra historia y cultura tienen sus casetas también. Entre ellos son grupos como el Instituto Cervantes de Manila, la Embajada de Indonesia y el Departamento de Asuntos Extranjeros.
 
+![]()
+
 También hay exhibiciones desde varios museos como él de Galeon, de Pio Valenzuela, y el Museo Nacional. Los que publican libros que hablan de la verdadera historia también se encuenran allí. 
 
 La Comisión espera que el HisToEx anime a los filipinos para aprender nuestra historia. Y con este conocimiento, podemos trabajar juntos para avanzar nuestro país querido.
