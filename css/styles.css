@@ -1,3 +1,7 @@
+.wow {
+  visibility: visible !important;
+}
+
 .col-lg-8 img {
     max-width: 100%;
     height: auto;
