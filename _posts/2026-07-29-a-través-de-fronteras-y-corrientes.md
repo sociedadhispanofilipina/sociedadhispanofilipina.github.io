@@ -1,5 +1,6 @@
 ---
 title: A través de fronteras y corrientes
+author: Jayzl Villafania NEBRÊ
 ---
 ![histoEx](/img/uploads/histoex.jpeg "histoEx")
 
