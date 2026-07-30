@@ -1,5 +1,5 @@
 ---
-title: "TRADUCCIONES : DE IDA Y VUELTA"
+title: "Traducciones: De Ida y Vuelta"
 author: Jayzl Villafania NEBRÊ
 ---
 ![20260730_163521.jpg](/img/uploads/20260730_163521.jpg "20260730_163521.jpg")
