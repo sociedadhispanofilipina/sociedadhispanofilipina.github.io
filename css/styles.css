@@ -463,3 +463,55 @@ body, html {
     color: #777;
 }
 /* Style sidebar post links END */
+
+/* Magazine style for blog previews START*/
+.publication-card {
+    background: #fff;
+    border: 1px solid #eee;
+    margin-bottom: 30px;
+    height: 100%;
+    transition: transform 0.2s ease;
+}
+
+.publication-card:hover {
+    transform: translateY(-5px);
+}
+
+.publication-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.publication-link:hover {
+    text-decoration: none;
+}
+
+.publication-image {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+}
+
+.publication-body {
+    padding: 20px;
+}
+
+.publication-body h3 {
+    font-size: 20px;
+    line-height: 1.3;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.publication-date {
+    color: #777;
+    font-size: 13px;
+}
+
+.publication-excerpt {
+    color: #555;
+    font-size: 14px;
+    line-height: 1.5;
+}
+/* Magazine style for blog previews END*/
