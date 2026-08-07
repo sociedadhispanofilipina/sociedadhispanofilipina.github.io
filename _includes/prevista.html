@@ -7,27 +7,37 @@
 
         <div class="row">
 
-            {% for post in site.posts limit:5 %}
+            {% for post in site.posts limit:6 %}
 
             <div class="col-md-4 col-sm-6">
 
-                <div class="publication-card">
+                <article class="publication-card">
 
                     <a href="{{ post.url }}" class="publication-link">
 
                         {% if post.image %}
-                        <img src="{{ post.image }}" alt="{{ post.title }}" class="publication-thumb">
+                        <img src="{{ post.image }}" alt="{{ post.title }}" class="publication-image">
                         {% endif %}
 
-                        <div class="publication-content">
-                            <strong>{{ post.title }}</strong>
-                            <br>
-                            <small>{{ post.date | date: "%d %b %Y" }}</small>
+                        <div class="publication-body">
+
+                            <h3>{{ post.title }}</h3>
+
+                            <p class="publication-date">
+                                {{ post.date | date: "%d %b %Y" }}
+                            </p>
+
+                            {% if post.lead %}
+                            <p class="publication-excerpt">
+                                {{ post.lead | truncate: 100 }}
+                            </p>
+                            {% endif %}
+
                         </div>
 
                     </a>
 
-                </div>
+                </article>
 
             </div>
 
