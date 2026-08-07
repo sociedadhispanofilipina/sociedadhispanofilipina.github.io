@@ -1,11 +1,10 @@
 ---
 title: "Traducciones: De Ida y Vuelta"
 author: Jayzl Villafania NEBRÊ
+image: /img/uploads/20260730_163521.jpg
 ---
-![20260730_163521.jpg](/img/uploads/20260730_163521.jpg "20260730_163521.jpg")
-
 Por un país que habla mas de 150 lenguas nativas como Filipinas, la traducción no es algo que damos mucha importancia. A parte de “*Noli Me Tangere*” y “*El Filibusterismo*” no hay muchas obras literarias traducidas en nuestros idiomas locales que podemos leer. Y seriamente, si esas dos obras no son lecturas obligatorias, nadie pondría la energía para traducirlo ni en inglés ni en tagálog.
- 
+
 Para mucho, si podemos leerlo en inglés, basta ya. De todos modos, somos el tercer país anglófono del mundo. Por eso, no como en otros países, no hay ninguna carrera para los que quieren ser traductor. En otros países, hay que obtener una licencia para ser un traductor. No basta que hablemos dos idiomas. Es necesario que podamos traducir no solamente las palabras, sino también el alma del mensaje.
 
 Peor si alguien quisiera tener una carrera en traducción literaria. Como las obras populares que traducen en inglés, no hay mucha razón para traducirlas en tagálog. Sin embargo, esas obras son las que los editoriales creen que son rentables. Imaginen que hay muchas obras más que no podemos leer porque nadie quiere proveer fondo para este trabajo. Imaginen el número de las obras hispanofilipinas que casi perdimos porque se escriben en un idioma que no tenemos acceso.
