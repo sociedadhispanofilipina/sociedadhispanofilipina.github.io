@@ -5,9 +5,9 @@ items:
   - title: Reuniones
     icon: https://github.com/sociedadhispanofilipina/sociedadhispanofilipina.github.io/blob/master/img/reunion.jpg?raw=true
     href: /reuniones.html
-  - title: Literatura
-    icon: https://github.com/sociedadhispanofilipina/sociedadhispanofilipina.github.io/blob/master/img/beca.jpeg?raw=true
-    href: /literatura.html
   - title: Beca
     href: beca.html
     icon: https://github.com/sociedadhispanofilipina/sociedadhispanofilipina.github.io/blob/master/img/beca.jpeg?raw=true
+  - title: Literatura
+    icon: https://github.com/sociedadhispanofilipina/sociedadhispanofilipina.github.io/blob/master/img/beca.jpeg?raw=true
+    href: /literatura.html
