@@ -410,3 +410,56 @@ body, html {
 #blog, #post {
     padding: 50px 0 40px;
 }
+
+
+/* Style sidebar post links START */
+.sidebar-posts {
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar-post {
+    margin-bottom: 18px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid #eee;
+}
+
+.sidebar-post:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.sidebar-link {
+    display: flex;
+    gap: 12px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.sidebar-link:hover {
+    text-decoration: none;
+}
+
+.sidebar-thumb {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 4px;
+    flex-shrink: 0;
+}
+
+.sidebar-content {
+    flex: 1;
+}
+
+.sidebar-content strong {
+    display: block;
+    line-height: 1.4;
+    margin-bottom: 4px;
+}
+
+.sidebar-content small {
+    color: #777;
+}
+/* Style sidebar post links END */
