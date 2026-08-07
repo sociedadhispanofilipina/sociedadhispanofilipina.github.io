@@ -83,7 +83,7 @@ layout: default
 
             {% assign current_category = page.categories | first %}
 
-            {% for post in site.categories[current_category] limit:5 %}
+            {% for post in site.categories[current_category] %}
 
                 <li class="sidebar-post">
 
