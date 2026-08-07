@@ -1,8 +1,9 @@
 ---
 title: A través de fronteras y corrientes
 author: Jayzl Villafania NEBRÊ
+image: /img/uploads/histoex.jpeg
 ---
-![histoEx](/img/uploads/histoex.jpeg "histoEx")
+![histoEx]( "histoEx")
 
 Para muchos, las fronteras son las que dividen los territorios de los países. Sin embargo, como Filipinas es un archipiélago, no tenemos una verdadera frontera. Es el mar que nos separa de nuestros países vecinos. Aún así, el agua nunca ha sido un obstáculo para que los Filipinos lleguen hasta el fin del mundo. Nuestra historia muestra claramente como la navegación se convirtió en una parte integral de nuestro progreso al tiempo actual.
 
