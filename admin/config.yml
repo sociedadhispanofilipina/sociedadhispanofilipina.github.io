@@ -13,19 +13,19 @@ collections:
     fields:
     - {label: "Title", name: "title", widget: "string"}
 
-      - { 
-          label: "Publication Date", 
-          name: "date", 
-          widget: "datetime", 
-          default: "{{now}}",
-          date_format: "YYYY-MM-DD",
-          time_format: false,
-          required: true
-        }
+    - { 
+        label: "Publication Date", 
+        name: "date", 
+        widget: "datetime", 
+        default: "{{now}}",
+        date_format: "YYYY-MM-DD",
+        time_format: false,
+        required: true
+      }
 
-      - {label: "Author", name: "author", widget: "string"}
-      - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Author", name: "author", widget: "string"}
+    - {label: "Featured Image", name: "image", widget: "image"}
+    - {label: "Body", name: "body", widget: "markdown"}
       
   - name: "pages"
     label: "Pages"
