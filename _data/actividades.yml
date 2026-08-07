@@ -1,15 +1,8 @@
-- icon: "img/icon_viajes.jpg"
-  title: "Viajes"
-  href: "viajes.html"
+items:
+  - title: "Actividad 1"
+    icon: "/img/actividad1.jpg"
+    href: "/actividad1.html"
 
-- icon: "img/reunion.jpg"
-  title: "Reuniones"
-  href: "reuniones.html"
-
-- icon: "img/beca.jpeg"
-  title: "La Beca Alzona Echevarría"
-  href: "beca.html"
-
-- icon: "img/beca.jpeg"
-  title: "Literatura"
-  href: "literatura.html"
+  - title: "Actividad 2"
+    icon: "/img/actividad2.jpg"
+    href: "/actividad2.html"
