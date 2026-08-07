@@ -18,11 +18,13 @@
             <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
               <div class="card">
                 <div class="actividades-img">
-                 <a href="{{ actividades.href }}"><img class="card-img-top" img-fluid src="{{ actividades.icon }}" alt="Card image cap">
-                  <div class="img-overlay"></div>
-                </div>
-                <div class="card-body">
-                  <p class="card-text">{{ actividades.title }}</p></a>
+                  <a href="{{ actividades.href }}">
+                    <img class="card-img-top" src="{{ actividades.icon }}" alt="{{ actividades.title }}">
+                    <div class="img-overlay"></div>
+                    <div class="card-body">
+                      <p class="card-text">{{ actividades.title }}</p>
+                    </div>
+                  </a>
                 </div>              
               </div>                      
             </div>
