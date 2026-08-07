@@ -55,9 +55,22 @@ collections:
         name: "actividades"
         file: "_data/actividades.yml"
         fields:
-          - label: "Content"
-            name: "content"
-            widget: "markdown"
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - label: "Title"
+                name: "title"
+                widget: "string"
+
+              - label: "Image"
+                name: "icon"
+                widget: "image"
+
+              - label: "Link"
+                name: "href"
+                widget: "string"
 
       - label: "Viajes Baler 2017"
         name: "viajes_baler2017"
