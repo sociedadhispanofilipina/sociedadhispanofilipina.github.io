@@ -1,8 +1,7 @@
 items:
-  - title: "Actividad 1"
-    icon: "/img/actividad1.jpg"
-    href: "/actividad1.html"
-
-  - title: "Actividad 2"
-    icon: "/img/actividad2.jpg"
-    href: "/actividad2.html"
+  - title: Viajes
+    icon: https://github.com/sociedadhispanofilipina/sociedadhispanofilipina.github.io/blob/master/img/icon_viajes.jpg?raw=true
+    href: /viajes.html
+  - title: Actividad 2
+    icon: /img/actividad2.jpg
+    href: /actividad2.html
