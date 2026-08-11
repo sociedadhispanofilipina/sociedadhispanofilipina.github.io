@@ -1,9 +1,26 @@
 
 <style>
   .carousel-item {
-    height: 200px;
+    min-height: 200px;
+    height: auto;
+  }
+  #mensajes .blockquote {
+    padding: 20px;
+  }
+  #mensajes .blockquote p {
+    line-height: 1.6;
+  }
+  @media (max-width: 767px) {
+    #mensajes .blockquote {
+      padding: 15px 5px 40px;
+    }
+    #mensajes .blockquote p {
+      font-size: 15px;
+      line-height: 1.6;
+    }
   }
 </style>
+
 <!-- MENSAJES -->
 
     <section id="mensajes">
@@ -43,26 +60,25 @@
                   <footer class="blockquote-footer">Jayzl</footer>                   
                 </blockquote>
                 </div>
-                <!--<div class="carousel-item">
-                  <blockquote class="blockquote"> <!-- Carousel item 3 -->
-                <!--  <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
-                
+                <!--
+                <div class="carousel-item">
+                  <blockquote class="blockquote">
+                    <p class="mb-0">
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+                    </p>
+                    <footer class="blockquote-footer">
+                      Someone famous in <cite title="Source Title">Source Title</cite>
+                    </footer>
                   </blockquote>
-                </div> -->
+                </div>
+                -->
 
                
-                </div>
-
-              </div>
-                
-            </div>
-
-          </div>
-          </div>
-        </div>
-      </div>
-      
+                </div> <!-- carousel-inner -->
+              </div> <!-- carousel -->
+            </div> <!-- col -->
+          </div> <!-- row -->
+        </div> <!-- container -->
     </section>
 
     <!-- END MENSAJES -->
