@@ -1,8 +1,10 @@
 <!doctype html>
 <html lang="en">
-<title>{% if page.title %} {{ page.title }} {% else %} {{ site.title }} {% endif %} </title>
+
   <head>
 
+    <title>{% if page.title %} {{ page.title }} {% else %} {{ site.title }} {% endif %} </title>
+    
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
     <script>
@@ -41,6 +43,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/png" href="{{ '/img/logo-small.png' | relative_url }}">
     <meta name="description" content="{% if page.description %} {{ page.description }} {% else %} {{site.description}} {% endif %}">
     <base href="{{ site.url}}">
 
