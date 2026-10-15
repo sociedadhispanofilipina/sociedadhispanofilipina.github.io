@@ -20,6 +20,8 @@ Muchos críticos de cine dicen que la edad del oro del cinema filipino empezó d
 
 En la década 50, el mundo empezó a conocer más películas de las Islas Filipinas. La película "***Genghis Khan***" de Manuel Conde fue la película asíatica que se estrenó en los festivales de cine de Venecia y de Cannes. Dicen que en este tiempo, Filipinas producían hasta 350 películas cada año. Solo Japón producía más películas que Filipinas. 
 
+![El cine filipino utiliza la lengua de la cinematografía española. - Profesor Nick de Ocampo](/img/uploads/dsc06239.jpg "Nick de Ocampo")
+
 En su conferencia para el Día Mundial del Cine Hispánico, (organizado por el ICM) el profesor Nick de Ocampo fijó su inteteres a una de las mejores películas filipinas jamás producidas, "***Ganito Kami Noon, Paano Kayo Ngayon?***" (Antes, así eramos ¿y ustedes ahora?). Dijo que la película muestra exactamente la mentalidad de los filipinos de aquel tiempo. Es decir, para ser aceptado a la sociedad manileña, un indio tenía que ser hispano. Tenía que cambiar su camisa de chino para el barong tagalog, la ropa del mestizaje. Tenía que saber bailar, no los bailes tradicionales de las provincias, sino los del tipo español.
 
 Claro, para completar la transformación, claro que tenía que aprender la lengua española. Y aunque Filipinas no han producido ninguna película en la lengua castellana, no hay escasez de ellas que utilizan dialogos en español. Hasta en los años recientes, hay películas como "***Heneral Luna***" que muestras personajes hablando en español. Y los que hablan español en estas películas no son españoles sino filipinos patriotas.
@@ -27,5 +29,7 @@ Claro, para completar la transformación, claro que tenía que aprender la lengu
 El profesor de Ocampo también subrayó que a parte de la lengua castellana, la religión es la huella duradera que la cultura hispánica ha dado a los filipinos. En la obra, "***Tinimbang Ka Ngunit Kulang***" de Lino Brocka, la voz católica es muy difícil pasar por alto. Desde el título, tomado del libro del profeta Daniel, 5:27, (*Pesado has sido en balanza, y fuiste hallado falto.*) hasta el uso frecuente del triangulo, que para los filipinos representa la Santísima Trinidad, la voz española no se puede esconder.
 
 Y ¿cómo podemos hablar del cinema filipino sin hablar de la película más aclamada por los críticos? No importa si eres Vilmanian (los fans de Vilma Santos) o Noranian (los fans de Nora Aunor), todo el mundo acepta que "***Himala***" de Ishmael Bernal (cuya la protagonista es Nora Aunor) el la película de las películas filipinas. Y como la obra de Brocka, también utiliza imagines católicas para contar su historia.
+
+![El Festival del Cine Hispánico se organiza por el Instituto Cervantes de Manila durante los últimos 25 años.](/img/uploads/20261006_140846.jpg "Festival de Cine")
 
 Gracias a los esfuerzos del Institutp Cervantes de Manila, más y más filipinos tienen la oportunidad para ver varias películas del mundo hispánico. Con estas películas, podemos dar cuenta que la experiencia filipina no es tan diferente que la experiencia del resto del mundo hispánico. Sin duda alguna, el cine español es también hispánico.
