@@ -18,7 +18,7 @@ A parte de las zarzuelas, los cineastas filipinos también adoptaron cuentos des
 
 Muchos críticos de cine dicen que la edad del oro del cinema filipino empezó después de la Segunda Guerra Mundial. Las películas de la década 40 hablaban del heroismo y de la resiliencia filipina durante los tiempos más duros de la Guerra. También hablaban del ***bayanihan***, un valor filipino que pone importancia al ayudar a los otros. Sorprendentemente, si veríamos en mudo las películas filipinas de esa época, es muy facil equivocarse que era una película española sobre la Guerra Civil.
 
-En la década 50, el mundo empezó a conocer más películas de las Islas Filipinas. La película "***Genghis Khan***" de Manuel Conde fue la película asíatica que se estrenó en los festivales de cine de Venecia y de Cannes. Dicen que en este tiempo, Filipinas producían hasta 350 películas cada año. Solo Japón producía más películas que Filipinas. 
+En la década 50, el mundo empezó a conocer más películas de las Islas Filipinas. La primera película "***Genghis Khan***" de Manuel Conde fue la película asíatica que se estrenó en los festivales de cine de Venecia y de Cannes. Dicen que en este tiempo, Filipinas producían hasta 350 películas cada año. Solo Japón producía más películas que Filipinas. 
 
 ![El cine filipino utiliza la lengua de la cinematografía española. - Profesor Nick de Ocampo](/img/uploads/dsc06239.jpg "Nick de Ocampo")
 
